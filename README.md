@@ -156,5 +156,5 @@ Contact
 Michael Kimani
 Machine Learning Studen
 
-## Demo Video
-Watch the project demonstration: https://youtu.be/6yDhGvgi4Q8
+Link to my video 
+https://youtu.be/6yDhGvgi4Q8
