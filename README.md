@@ -56,6 +56,7 @@ Transfer Learning Superiority: mobileNetV2 fine-tuning resulted in an accuracy o
 Error Analysis: There was no systematic bias in the classes with 38 misclassifications of the best model with equal false positives and false negatives. Typical failure designs included extreme lighting conditions, background interference and borderline cases in which even the human experts could disagree.
 Practical Impact: An error rate of 9% was reduced to 1.56% and 219 fewer mistakes daily would have been prevented in a 10,000-bird farm, which could prevent disease outbreak and save a lot of money.
 
+git clone https://github.com/Mikekimm/Poultry-health-classification.git
 Project Structure
 
 poultry-health-classification/
