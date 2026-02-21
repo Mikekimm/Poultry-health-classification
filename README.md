@@ -155,3 +155,6 @@ This is an educational project that is developed during a Machine Learning cours
 Contact
 Michael Kimani
 Machine Learning Studen
+
+## Demo Video
+Watch the project demonstration: https://youtu.be/6yDhGvgi4Q8
